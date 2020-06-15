@@ -12,9 +12,11 @@ body {
 #jordan12 {
     width: 300px;
     padding: 40px;
-    background-color: black;
-    justify-content: center;
-    background-image: url(https://lh3.googleusercontent.com/proxy/w5pfompVHmNTc0UrPCZcQn6Locc8L1Es9IqHw2aRmfQj4M_u-pm2i36WqQhjMpv__JU8EO0clEpZWhCDaeVX_pPCrixBT2uSAYQV-wSAD-D9vIU57uC-6P5o5lY);
+    justify-content:;background-color: black;
+    background-image: url(https://wallpapertag.com/wallpaper/full/6/b/d/1008603-michael-jordan-wallpaper-1920x1080-2560x1600-for-ipad-2.jpg);
+    background-size: 350px;
+    background-position: 7vw;
+    background-repeat: no-repeat;
     }
 
 #card-container {
@@ -24,9 +26,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
-#jordan {
+.jordan-card {
     width: 300px;
     background: #202020;
     border-radius: 10px;
