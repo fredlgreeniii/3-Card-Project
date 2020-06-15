@@ -1,0 +1,106 @@
+*,
+*::before,
+*::after {
+  padding : 0px;
+  margin : 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  
+}
+
+#jordan12 {
+    width: 300px;
+    padding: 10px;
+    background-color: black;
+    justify-content: center;
+
+}
+
+#card-container {
+    width: 100vw;
+    height: 100vh;
+    background: #2c2929;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#jordan {
+    width: 300px;
+    background: #202020;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 40px rgba(161, 154, 154, 0.4);
+}
+
+#jordan-12-title {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+#content {
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    opacity: .5;
+}
+
+#green-price {
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    color: rgb(100, 124, 59);
+}
+
+#red-price {
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    color: rgb(240, 12, 58);
+}
+
+#blue-price {
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    color: rgb(16, 63, 206);
+}
+
+.rating {
+    padding:10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#cart {
+    padding:10px;
+    display: flex;
+    justify-content: center;
+}
+
+#green-footer {
+    background-color: rgb(100, 124, 59);
+    color: white;
+}
+
+#red-footer {
+    background-color: rgb(240, 12, 58);
+    color: white;
+}
+#blue-footer {
+    background-color: rgb(16, 63, 206);
+    color: white;
+}
+
+#all-3-cards {
+    padding: 15px;
+    display: flex;
+    
+}
+
