@@ -12,7 +12,7 @@ body {
 #jordan12 {
     width: 300px;
     padding: 40px;
-    justify-content:;background-color: black;
+    background-color: black;
     background-image: url(https://wallpapertag.com/wallpaper/full/6/b/d/1008603-michael-jordan-wallpaper-1920x1080-2560x1600-for-ipad-2.jpg);
     background-size: 350px;
     background-position: 7vw;
@@ -34,7 +34,7 @@ body {
     background: #202020;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 5px 40px rgba(161, 154, 154, 0.4);
+    box-shadow: 0 5px 40px rgba(196, 189, 189, 0.4);
 }
 
 #jordan-12-title {
